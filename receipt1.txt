@@ -1,0 +1,13 @@
+=====================================================
+Reciept no:Travel Bill: 295444
+Seat No: 2
+PRN No: 91765
+Travel Date: 4/18/22
+Travel Time: 6:30 PM
+Name: Ronak  Doshi
+Mobile No: 9769150871
+Source: KALYAN
+Destination: PUNE
+Train Type: AC
+Total Paid Amount: Rs.210
+=====================================================

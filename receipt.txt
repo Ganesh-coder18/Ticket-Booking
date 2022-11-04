@@ -1,0 +1,13 @@
+=====================================================
+Reciept no:Travel Bill: 287086
+Seat No: 22
+Bus No: 1189
+Travel Date: 5/12/21
+Travel Time: 11:30 AM
+Name: Gsd l;l;
+Mobile No: 5555
+Source: KALYAN
+Destination: THANE
+Bus Type: AC
+Total Paid Amount: Rs.256
+=====================================================

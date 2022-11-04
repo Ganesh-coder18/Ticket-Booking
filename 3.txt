@@ -1,0 +1,13 @@
+=====================================================
+Reciept no:Travel Bill: 238273
+Seat No: 31
+Bus No: 1118
+Travel Date: 5/28/21
+Travel Time: 12:00 AM
+Name: Ganesh Shinde
+Mobile No: 9321660465
+Source: KALYAN
+Destination: CST
+Bus Type: AC
+Total Paid Amount: Rs400
+=====================================================
